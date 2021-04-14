@@ -129,7 +129,7 @@ export function HttpLoaderFactory(http: HttpClient) {
     environment.production
       ? []
       : StoreDevtoolsModule.instrument({
-          name: 'MicroFrontends Workshop 2020'
+          name: 'MicroFrontends Workshop 2021'
         }),
 
     // 3rd party
